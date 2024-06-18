@@ -1,4 +1,4 @@
-### SpringBoot项目实现是初始化操作的三种方式
+### SpringBoot项目实现初始化操作的三种方式
 
 ##### 1.使用@PostStruct注解
 
